@@ -9,4 +9,4 @@ public class ScannerPractice {
         input.close();
         System.out.print("User entered name is : "+name);
     }
-}
+};
