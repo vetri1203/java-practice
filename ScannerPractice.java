@@ -10,4 +10,3 @@ public class ScannerPractice {
         System.out.print("User entered name is : "+name);
     }
 }
-
